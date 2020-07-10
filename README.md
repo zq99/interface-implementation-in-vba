@@ -1,4 +1,4 @@
-# Interface Example using VBA - Observer Design Pattern
+# Interface Example using VBA
 
 ## Purpose
 
